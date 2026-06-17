@@ -23,11 +23,13 @@ ai_travel_planner/
 
 ---
 
-### 4. Open in browser
+## Quick Start
 
-Navigate to: **http://localhost:5000**
+## Visual Overview
 
----
+![Overview 1](ui2.jpeg)
+
+![Overview 2](ui1.jpeg)
 
 ## AI Concepts Used
 
